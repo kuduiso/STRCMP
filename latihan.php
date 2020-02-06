@@ -31,6 +31,7 @@ if (isset($_POST["submit"])){
 	}
 }
 #echo rand();
+#perubahan pada comment
 ?>
 
 </body>
